@@ -18,7 +18,7 @@ This C# program allows checking if user make a triangle.
 | **A user could return result that does not make a triangle** | Input: "2/4/12"  | Output: "This is not a triangle since all sides are not balanced" |
 
 ## Setup/Installation Requirements
-1. Clone this repository, https://github.com/jiwon-seattle/Riddles-of-the-Sphinx.git.
+1. Clone this repository, https://github.com/jiwon-seattle/Triangle-checker-2.git.
 3. Run this application with a command $ dotnet run. 
 
 ## Known Bugs
