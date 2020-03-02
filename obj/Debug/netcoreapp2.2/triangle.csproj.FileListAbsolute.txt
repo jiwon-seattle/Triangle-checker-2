@@ -1,0 +1,11 @@
+C:\Users\Jiwon Han\desktop\coding\c#\triangle\obj\Debug\netcoreapp2.2\triangle.csprojAssemblyReference.cache
+C:\Users\Jiwon Han\desktop\coding\c#\triangle\obj\Debug\netcoreapp2.2\triangle.csproj.CoreCompileInputs.cache
+C:\Users\Jiwon Han\desktop\coding\c#\triangle\obj\Debug\netcoreapp2.2\triangle.AssemblyInfoInputs.cache
+C:\Users\Jiwon Han\desktop\coding\c#\triangle\obj\Debug\netcoreapp2.2\triangle.AssemblyInfo.cs
+C:\Users\Jiwon Han\desktop\coding\c#\triangle\bin\Debug\netcoreapp2.2\triangle.deps.json
+C:\Users\Jiwon Han\desktop\coding\c#\triangle\bin\Debug\netcoreapp2.2\triangle.runtimeconfig.json
+C:\Users\Jiwon Han\desktop\coding\c#\triangle\bin\Debug\netcoreapp2.2\triangle.runtimeconfig.dev.json
+C:\Users\Jiwon Han\desktop\coding\c#\triangle\bin\Debug\netcoreapp2.2\triangle.dll
+C:\Users\Jiwon Han\desktop\coding\c#\triangle\bin\Debug\netcoreapp2.2\triangle.pdb
+C:\Users\Jiwon Han\desktop\coding\c#\triangle\obj\Debug\netcoreapp2.2\triangle.dll
+C:\Users\Jiwon Han\desktop\coding\c#\triangle\obj\Debug\netcoreapp2.2\triangle.pdb
